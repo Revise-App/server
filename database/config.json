@@ -1,0 +1,16 @@
+{
+	"server": {
+		"port": "6969",
+		"geoIpLookupKey": "fece1d75db5a4f8590473526b981df95",
+		"encryption": {
+			"messages": {
+				"algorithm": "aes-256-cbc",
+				"initVectorBytes": 16,
+				"securityKeyBytes": 24
+			},
+			"serverKeys": {
+				"privateKey": "KblChK14rouA7Co+irUYytFpxEb/XmvWUpEKhw3JUx0="
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"users": [
+		{
+			"username": "myUsername",
+			"uuid": "0d257d2b-c237-49e4-85cb-5c3e38607c90",
+			"revision": {
+				"lessons": [
+					{
+						"IT": {
+							"cards": ""
+						}
+					}
+				]
+			}
+		}
+	]
+}

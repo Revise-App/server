@@ -1,0 +1,28 @@
+[
+	{
+		"email": "em1212il@em1ail",
+		"password": "m1111yda1d",
+		"username": "BOBA2221",
+		"keys": {
+			"public": "BBJS4MINN/aFF9Ozh5zJwm9RWNURHeg9iu9/ilZZycQhHv5vSuaXiFUJx7T/kUzKijZPHeCazd6lpZ2WNZFLXuU=",
+			"serverPublic": "BJSOE6Axu3KH/LL4CvZUy++5zohiJDA2kInfiRRJq/nYYbGrtN3wwd4/7Ajnbc4U7gHX8283/KEDPNITWfJy5mY=",
+			"secret": "ace956622dbe1e3812d5e47e414ed2cab3c755adfb7c792a26c1f3e04094914e",
+			"private": "hKb43bp8NJUGePiRuRLRM3cyYZnCBItx+aNdN77vbLU=",
+			"serverPrivate": "fvYCRqZUSaypuoF/Hl/IniLx1cQxY0DDik86btrFZo0="
+		},
+		"uuid": "850929a6-fb54-470f-981a-982ba8269b0f",
+		"isActivated": false,
+		"isDisabled": false,
+		"punishments": [
+			{
+				"date": "",
+				"reason": "",
+				"typeOfPunishment": ""
+			}
+		],
+		"creationDate": "Fri Sep 30 2022 20:21:42 GMT+0100 (British Summer Time)",
+		"ip": {
+			"ip": "127.0.0.1"
+		}
+	}
+]
